@@ -15,3 +15,6 @@ spell_rev/backup/*
 spell_rev/debug/*
 !spell_rev/debug/debug.txt
 .DS_Store
+spell_rev/languages/*/fl#utf8.mrk
+spell_rev/languages/*/fl#utf8_ARCANE.TRA
+spell_rev/languages/*/fl#utf8_DIVINE.TRA
