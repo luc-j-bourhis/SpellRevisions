@@ -1589,6 +1589,7 @@ COPY ~spell_rev\spwi1##\spwi115d.spl~     ~override~
 
 COPY ~spell_rev\spwi1##\spwi116.spl~     ~override~  // Sleep
   SAY NAME1 @429    SAY UNIDENTIFIED_DESC @430
+  LPF ALTER_EFFECT INT_VAR match_opcode = 139 match_parameter1 = 4742 parameter1 = RESOLVE_STR_REF(@4742) END
 COPY ~spell_rev\spwi1##\scrl81.itm~     ~override~
   SAY NAME2 @429    SAY IDENTIFIED_DESC   @430
 COPY ~spell_rev\spwi1##\spwi116d.spl~     ~override~
@@ -1903,6 +1904,7 @@ COPY ~spell_rev\spwi2##\spwi220i.eff~     ~override~
 
 COPY ~spell_rev\spwi2##\spwi221.spl~     ~override~  // Ray of Enfeeblement
   SAY NAME1 @487    SAY UNIDENTIFIED_DESC @488
+  LPF ALTER_EFFECT INT_VAR match_opcode = 139 match_parameter1 = 7924 parameter1 = RESOLVE_STR_REF(@7924) END
 COPY ~spell_rev\spwi2##\scrl6f.itm~     ~override~
   SAY NAME2 @487    SAY IDENTIFIED_DESC   @488
 

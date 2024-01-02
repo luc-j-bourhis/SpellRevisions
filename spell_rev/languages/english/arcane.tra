@@ -192,6 +192,8 @@ Saving Throw: Spell negates
 
 When a wizard casts a Sleep spell, he causes a comatose slumber to come upon one or more creatures. Creatures in the area of effect must make a saving throw vs. spell or fall asleep. Any further attempts to harm the targets will waken them. Opponents with more Hit Dice/levels than the caster are unaffected by this spell. Elves and half-elves are particularly resistant to sleep effects, while the undead and certain other creatures such as dragons and elementals are completely immune to magically induced sleep.~
 
+@4742=~Spell Ineffective~
+
 @431=~Chill Touch~
 @432=~Chill Touch
 Level: 1
@@ -567,6 +569,8 @@ Area of Effect: 1 creature
 Saving Throw: Spell negates
 
 By means of a Ray of Enfeeblement, a wizard weakens an opponent, reducing its strength and thereby the attacks that rely upon it. The victim suffers a -3 penalty to attack and damage rolls and has its movement speed reduced by 50% unless they make a successful saving throw vs. spell at a -2 penalty.~
+
+@7924=~Enfeebled~
 
 @489=~Chaos Shield~
 @490=~Chaos Shield
